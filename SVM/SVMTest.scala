@@ -26,7 +26,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 /**
   *  MLLib分类，逻辑回归，是分类，不是回归
   *  支持向量机分析胃癌转移判断
-  * Created by eric on 16-7-17.
+  * https://my.oschina.net/sunmin/blog/719746
   */
 object SVMTest {
   val conf = new SparkConf()                                     //创建环境变量
