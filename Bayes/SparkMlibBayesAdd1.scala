@@ -16,7 +16,6 @@ import org.apache.spark.{SparkContext, SparkConf}
   * 已发微博/注册天数　< 0.05, V1 = 0
   * 0.05 <= 已发微博/注册天数　< 0.75, V1 = 1
   * 0.75 <= 已发微博/注册天数, V1 = 2
-  * Created by eric on 16-7-19.
   * https://my.oschina.net/sunmin/blog/720089
   */
 
